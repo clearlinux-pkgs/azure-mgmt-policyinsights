@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-policyinsights
 Version  : 0.5.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/25/aa/1f0cb5c3533de2641a692b0b3cb4d06003579a21e6eec280a8718fcf95bf/azure-mgmt-policyinsights-0.5.0.zip
 Source0  : https://files.pythonhosted.org/packages/25/aa/1f0cb5c3533de2641a692b0b3cb4d06003579a21e6eec280a8718fcf95bf/azure-mgmt-policyinsights-0.5.0.zip
 Summary  : Microsoft Azure Policy Insights Client Library for Python
